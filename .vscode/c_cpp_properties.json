@@ -1,0 +1,37 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "C:/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include/c++/x86_64-w64-mingw32",
+                    "C:/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include/c++/backward",
+                    "C:/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include",
+                    "C:/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include-fixed",
+                    "C:/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/../../../../x86_64-w64-mingw32/include",
+                    "C:/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include/c++"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "${workspaceFolder}",
+                    "C:/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include/c++/x86_64-w64-mingw32",
+                    "C:/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include/c++/backward",
+                    "C:/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include",
+                    "C:/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include-fixed",
+                    "C:/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/../../../../x86_64-w64-mingw32/include",
+                    "C:/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/7.1.0/include/c++"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
